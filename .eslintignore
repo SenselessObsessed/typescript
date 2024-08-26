@@ -1,0 +1,7 @@
+dist
+__tests__
+webpack.config.js
+tsconfig.json
+babel.config.json
+.eslintrc.js
+jest.config.js
